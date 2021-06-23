@@ -1,0 +1,10 @@
+venv
+tmp
+cds_manifest/image-release-1-synapse-ids.json
+cds_manifest/htapp_release1.tsv
+cds_manifest/config-htan.yml
+cds_manifest/cds_manifest.synids.txt
+cds_manifest/cds_manifest.all.csv
+cds_manifest/cds_manifest.nohandle.txt
+cds_manifest/cds_manifest.s3.csv
+cds_manifest/cds_manifest.gs.csv
